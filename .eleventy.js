@@ -9,8 +9,10 @@ module.exports = function (eleventyConfig) {
 
     return {
         dir: {
-            input: "./src",
-            output: "./docs",
+            includes: "_includes",
+            layouts: "_layouts",
+            input: "src",
+            output: "docs",
         },
     }
 }
