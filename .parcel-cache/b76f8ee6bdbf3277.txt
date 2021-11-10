@@ -1,11 +1,11 @@
 25264
 54/home/jlundberg/git/jefflundberg.com/postcss.config.js1636507919480000000 0
 45/home/jlundberg/git/jefflundberg.com/docs/img1636508487750000000 1
-52/home/jlundberg/git/jefflundberg.com/docs/index.html1636509035410000000 0
+52/home/jlundberg/git/jefflundberg.com/docs/index.html1636509274910000000 0
 44/home/jlundberg/git/jefflundberg.com/docs/js1636508487750000000 1
 47/home/jlundberg/git/jefflundberg.com/docs/fonts1636508487750000000 1
 47/home/jlundberg/git/jefflundberg.com/docs/CNAME1636508543100000000 0
-62/home/jlundberg/git/jefflundberg.com/docs/css/tailwind.css.map1636508960210000000 0
+62/home/jlundberg/git/jefflundberg.com/docs/css/tailwind.css.map1636509278060000000 0
 41/home/jlundberg/git/jefflundberg.com/docs1636508543100000000 1
 44/home/jlundberg/git/jefflundberg.com/LICENSE1636505723650000000 0
 50/home/jlundberg/git/jefflundberg.com/src/_includes1636507160550000000 1
@@ -2177,7 +2177,7 @@
 86/home/jlundberg/git/jefflundberg.com/node_modules/core-js/features/instance/reverse.js1636507965850000000 0
 52/home/jlundberg/git/jefflundberg.com/node_modules/ms1636505377540000000 1
 66/home/jlundberg/git/jefflundberg.com/node_modules/wrappy/README.md1636505377470000000 0
-63/home/jlundberg/git/jefflundberg.com/src/_layouts/layout.liquid1636508816710000000 0
+63/home/jlundberg/git/jefflundberg.com/src/_layouts/layout.liquid1636509230350000000 0
 64/home/jlundberg/git/jefflundberg.com/node_modules/wrappy/LICENSE1636505377530000000 0
 75/home/jlundberg/git/jefflundberg.com/node_modules/tailwindcss/utilities.css1636507846370000000 0
 77/home/jlundberg/git/jefflundberg.com/node_modules/tailwindcss/peers/.svgo.yml1636507846490000000 0
@@ -2891,7 +2891,7 @@
 131/home/jlundberg/git/jefflundberg.com/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-browser-alias/foo.js1636507964070000000 0
 70/home/jlundberg/git/jefflundberg.com/node_modules/token-stream/LICENSE1636505377570000000 0
 92/home/jlundberg/git/jefflundberg.com/node_modules/@parcel/transformer-babel/src/constants.js1636507963600000000 0
-58/home/jlundberg/git/jefflundberg.com/docs/css/tailwind.css1636508960210000000 0
+58/home/jlundberg/git/jefflundberg.com/docs/css/tailwind.css1636509278060000000 0
 89/home/jlundberg/git/jefflundberg.com/node_modules/@parcel/node-resolver-core/test/fixture1636507964680000000 1
 90/home/jlundberg/git/jefflundberg.com/node_modules/@parcel/node-resolver-core/lib/_empty.js1636507962920000000 0
 93/home/jlundberg/git/jefflundberg.com/node_modules/rxjs/_esm5/operator/distinctUntilChanged.js1636505379000000000 0
@@ -18574,7 +18574,7 @@
 70/home/jlundberg/git/jefflundberg.com/node_modules/lodash/propertyOf.js1636505378840000000 0
 78/home/jlundberg/git/jefflundberg.com/node_modules/del/node_modules/.bin/rimraf1636507967280000000 0
 74/home/jlundberg/git/jefflundberg.com/node_modules/lodash/_mapCacheClear.js1636505378470000000 0
-45/home/jlundberg/git/jefflundberg.com/docs/css1636508960210000000 1
+45/home/jlundberg/git/jefflundberg.com/docs/css1636509278060000000 1
 67/home/jlundberg/git/jefflundberg.com/node_modules/msgpackr/index.js1636507963000000000 0
 73/home/jlundberg/git/jefflundberg.com/node_modules/lodash/_baseForRight.js1636505378100000000 0
 79/home/jlundberg/git/jefflundberg.com/node_modules/rxjs/operators/timeoutWith.js1636505379290000000 0
