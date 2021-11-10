@@ -14,5 +14,6 @@ module.exports = function (eleventyConfig) {
             input: "src",
             output: "docs",
         },
+        pathPrefix: "/jefflundberg.com/",
     }
 }
